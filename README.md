@@ -1,5 +1,11 @@
 # Testing markdown
 **bold**
+
+__bold__
+
+*italic*
+_dsa_
+
 ## task list
 - [x] task1
 - [ ] task2
